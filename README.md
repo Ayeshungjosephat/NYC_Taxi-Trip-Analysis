@@ -3,11 +3,11 @@
 The Taxi Trip Analysis project aims to extract insights from taxi trip data, including trip duration, fare trends, demand patterns, and driver efficiency. The objective is to optimize operations, improve customer satisfaction.
 
 ### Objectives
- ·  Analyze taxi trip trends over two years
- ·  Identify peak travel times and busiest days
- ·  Determine the most popular boroughs for pickups/drop-offs
- ·  Evaluate revenue distribution and payment methods
- ·  Provide actionable insights for optimizing taxi services
+- Analyze taxi trip trends over two years
+- Identify peak travel times and busiest days
+- Determine the most popular boroughs for pickups/drop-offs
+- Evaluate revenue distribution and payment methods
+- Provide actionable insights for optimizing taxi services
 
 ### Dataset Used
 - Source: NYC Taxi Trip Data
