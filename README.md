@@ -53,7 +53,7 @@ Data Fields:
 - Assisted in decision-making for payment method preferences
 
 ### Limitation
-	Few trips were recorded after late 2019 dew  to the Covid-19 pandemic which impacted movement. This created a bias in the analysis since more data were gotten in 2019.
+Few trips were recorded after late 2019 dew  to the Covid-19 pandemic which impacted movement. This created a bias in the analysis since more data were gotten in 2019.
 
 ### Conclusion & Future Improvements
 - Expand analysis to include weather and traffic impact
