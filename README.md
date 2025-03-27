@@ -21,3 +21,28 @@ Data Fields:
 - Power Query – Data transformation and cleaning
 - SQL – Data extraction and processing
 - Excel – Data organization and additional analysis
+
+### Key Metrics & Insights
+1. Total Trips & Revenue
+-6M total trips analyzed
+-$89.5M in total revenue
+-$15.4 average fare per trip
+
+2. Time-Based Analysis
+Peak travel times: 6 AM - 9 AM & 3 PM - 6 PM
+Busiest day: Sunday, with 0.96M trips
+Monthly trends: February had the highest trips (0.81M)
+
+3. Borough Distribution
+Top locations: Manhattan (40.14%) & Brooklyn (26.08%)
+Least trips: Staten Island (0.05%)
+
+4. Payment Methods
+Credit Card (3.3M trips) is the preferred method
+Cash payments accounted for 2.6M trips
+
+### Visualizations
+- Bar Charts: Trip volume by time, day, and month
+- Pie Charts: Borough-wise trip distribution
+- Stacked Area Charts: Trip patterns over time
+- KPIs: Total revenue, average fare, trip count
