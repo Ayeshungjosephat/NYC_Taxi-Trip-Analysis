@@ -1,4 +1,14 @@
 # NYC_Taxi-Trip-Analysis
+
+## Table of content
+- [PROJECT OVERVIEW](#project-overview)
+- [Objectives](#objectives)
+- [Dataset Used](#dataset-used)
+- [Tools and Technologies](#tools-and-technologies)
+- [Dashboard](#dashboard)
+- [Key Metrics and Insights](#key-metrics-and-insights)
+- [Limitation](#limitation)
+- [Conclusion and Future Improvements](#conclusion-and-future-improvements)
 ## PROJECT OVERVIEW
 The Taxi Trip Analysis project aims to extract insights from taxi trip data, including trip duration, fare trends, demand patterns, and driver efficiency. The objective is to optimize operations, improve customer satisfaction.
 
@@ -16,16 +26,16 @@ Data Fields:
 - Fare Information: Total fare, tip amount, payment type
 - Trip Metadata: Boroughs, timestamps, fiscal week
 
-### Tools & Technologies
+### Tools and Technologies
 - Power BI – Data visualization and dashboard creation
 - Power Query – Data transformation and cleaning
 - SQL – Data extraction and processing
 - Excel – Data organization and additional analysis
 
-
+### Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/e9e58eea-98a3-4154-82d8-e34d28ded44b)
 
-### Key Metrics & Insights
+### Key Metrics and Insights
 1. Total Trips & Revenue
 - 6M total trips analyzed
 - $89.5M in total revenue
@@ -58,7 +68,7 @@ Data Fields:
 ### Limitation
 Few trips were recorded after late 2019 dew  to the Covid-19 pandemic which impacted movement. This created a bias in the analysis since not so much data were gotten in 2019.
 
-### Conclusion & Future Improvements
+### Conclusion and Future Improvements
 - Expand analysis to include weather and traffic impact
 - Implement predictive analytics for fare forecasting
 - Enhance visualization with real-time trip tracking
