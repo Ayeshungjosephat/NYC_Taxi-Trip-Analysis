@@ -22,7 +22,8 @@ Data Fields:
 - SQL – Data extraction and processing
 - Excel – Data organization and additional analysis
 
-https://github.com/Ayeshungjosephat/NYC_Taxi-Trip-Analysis/blob/main/Dashboard.JPG
+
+![Dashboard](https://github.com/user-attachments/assets/e9e58eea-98a3-4154-82d8-e34d28ded44b)
 
 ### Key Metrics & Insights
 1. Total Trips & Revenue
